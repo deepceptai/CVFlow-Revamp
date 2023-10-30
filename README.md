@@ -31,3 +31,7 @@ We've provided a comparison between the existing CVFlow (img 1) and another simi
 - An interesting comparison: [https://webmachinelearning.github.io/webnn-samples/lenet/index.html](https://webmachinelearning.github.io/webnn-samples/lenet/index.html)
 
 Join us in reshaping the future of computer vision and web-based image and video processing. Contribute to CVFlow Evolution and help us create a more accessible and captivating platform for OpenCV enthusiasts worldwide.
+
+**[Rahul Jangra](https://github.com/leonado10000)**
+- Role: Internship project
+- Bio: A computer vision enthusiast with a background in CSE, intern at deepcept ai and a strong commitment to open-source development.
